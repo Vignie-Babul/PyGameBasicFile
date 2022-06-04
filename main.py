@@ -32,7 +32,7 @@ def draw_all_objects():
 	screen.fill(BG)
 
 
-# main while
+# main loop
 while True:
 	# keyboard
 	keys = key.get_pressed()
